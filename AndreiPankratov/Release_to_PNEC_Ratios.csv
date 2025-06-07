@@ -1,0 +1,81 @@
+substance_lower,SUBSTANCE NAME,QUANTITY RELEASED (kg),PNEC,Release_to_PNEC_Ratio
+heptachlor,Heptachlor,2.31693,1.7e-07,13629000.000000002
+"indeno(1,2,3-cd)pyrene","Indeno(1,2,3-cd)pyrene",1160.1932,0.00017,6824665.882352941
+benzo(a)pyrene,Benzo(a)pyrene,941.03442,0.00017,5535496.5882352935
+cypermethrin,Cypermethrin,149.79531,3e-05,4993177.0
+fluoranthene,Fluoranthene,424.19538,0.000762,556686.8503937008
+copper,Copper,390846.91931027017,1.0,390846.91931027017
+zinc,Zinc,1515967.588327688,7.8,194354.81901637025
+phenols - total as c,Phenols - total as C,1064135.98903,7.7,138199.4790948052
+nickel,Nickel,276294.08613025123,2.0,138147.04306512562
+arsenic,Arsenic,43159.6767211784,0.5,86319.3534423568
+cadmium,Cadmium,4890.05542751892,0.08,61125.69284398649
+vinyl chloride,Vinyl chloride,2495.45,0.05,49908.99999999999
+diuron,Diuron,2219.31067,0.049,45292.05448979591
+lead,Lead,52595.48875415474,1.2,43829.57396179562
+naphthalene,Naphthalene,80373.65892,2.0,40186.82946
+fluorides - as f,Fluorides - as F,12722336.473,500.0,25444.672946
+chromium,Chromium,59203.2547808679,3.4,17412.721994372914
+ethyl benzene,Ethyl benzene,7221.3297999999995,0.49,14737.40775510204
+benzene,Benzene,144444.103,10.0,14444.4103
+anthracene,Anthracene,1371.43502,0.1,13714.350199999999
+cyanides - as cn,Cyanides - as CN,104457.306,10.0,10445.730599999999
+xylene - all isomers,Xylene - all isomers,103656.475,10.0,10365.647500000001
+dichlorvos,Dichlorvos,2.25355,0.0006,3755.9166666666674
+trichlorobenzene - all isomers,Trichlorobenzene - all isomers,868.7630300000001,0.4,2171.907575
+toluene,Toluene,108777.93000000001,74.0,1469.972027027027
+endosulfan,Endosulfan,3.8611180000000003,0.005,772.2236
+dichloromethane (dcm) (methylene chloride),Dichloromethane (DCM) (Methylene chloride),12495.51,20.0,624.7755
+pentachlorophenol (pcp),Pentachlorophenol (PCP),196.24211,0.4,490.60527499999995
+tetrachloroethylene (per),Tetrachloroethylene (PER),2010.361,10.0,201.0361
+trichloroethylene,Trichloroethylene,1536.64,10.0,153.66400000000002
+atrazine,Atrazine,19.56812,0.6,32.613533333333336
+trifluralin,Trifluralin,0.38395999999999997,0.03,12.798666666666666
+isoproturon,Isoproturon,0.94911,0.3,3.1637
+simazine,Simazine,1.25353,1.0,1.25353
+pentachlorobenzene,Pentachlorobenzene,0.0,0.007,0.0
+chlordane,Chlordane,0.0,5e-05,0.0
+chlorfenvinphos,Chlorfenvinphos,0.0,0.1,0.0
+alachlor,Alachlor,0.0,0.3,0.0
+aldrin,Aldrin,0.42707,,
+asbestos,Asbestos,2479.565,,
+benzo(b)fluoranthene,Benzo(b)fluoranthene,570.24231,,
+"benzo(g,h,i)perylene","Benzo(g,h,i)perylene",576.19,,
+benzo(k)fluoranthene,Benzo(k)fluoranthene,418.60582,,
+"brominated diphenylethers - penta-, octa- and deca- bde","Brominated diphenylethers - penta-, octa- and deca- BDE",24.8628,,
+carbon tetrachloride (tetrachloromethane),Carbon tetrachloride (Tetrachloromethane),258.8145,,
+chlordecone,Chlordecone,0.0,,
+chlorides - as cl,Chlorides - as Cl,7114839334.501309,,
+chloroform (trichloromethane),Chloroform (Trichloromethane),12920.297,,
+chlorpyrifos,Chlorpyrifos,6.71802,,
+di(2-ethylhexyl)phthalate (dehp),Di(2-ethylhexyl)phthalate (DEHP),57176.2184,,
+dichlorodiphenyltrichloroethane (ddt),Dichlorodiphenyltrichloroethane (DDT),1.9720739999999999,,
+dieldrin,Dieldrin,0.57008,,
+dioxins and furans (pcdds/pcdfs) - as iteq,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0.032741,,
+dioxins and furans (pcdds/pcdfs) - as who teq,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0.032781,,
+endrin,Endrin,0.82967,,
+"ethylene dichloride (1,2-dichloroethane)","Ethylene dichloride (1,2-Dichloroethane)",556.662,,
+"ethylene oxide (1,2 epoxyethane)","Ethylene oxide (1,2 Epoxyethane)",0.0,,
+halogenated organic compounds - as aox,Halogenated organic compounds - as AOX,3428398.08,,
+hexabromobiphenyl,Hexabromobiphenyl,0.0,,
+hexabromocyclododecane,Hexabromocyclododecane,0.0,,
+hexachlorobenzene (hcb),Hexachlorobenzene (HCB),10.02622,,
+hexachlorobutadiene,Hexachlorobutadiene,25.71648,,
+hexachlorocyclohexane (hch) -all isomers,Hexachlorocyclohexane (HCH) -all isomers,0.5123,,
+iron,Iron,284162.95891,,
+isodrin,Isodrin,0.12348,,
+lindane,Lindane,0.19,,
+mercury,Mercury,1647.38681823852,,
+mirex,Mirex,0.0,,
+nonylphenols and nonylphenol ethoxylates,Nonylphenols and nonylphenol ethoxylates,80413.0273,,
+octylphenols and octylphenol ethoxylates,Octylphenols and octylphenol ethoxylates,241.297,,
+organotin compounds - as sn,Organotin compounds - as Sn,575.79,,
+perfluoro octanyl sulphate (pfos),Perfluoro octanyl sulphate (PFOS),4.7,,
+phosphorus - as total p,Phosphorus - as total P,83529689.11590174,,
+polychlorinated biphenyls (pcbs),Polychlorinated biphenyls (PCBs),3.2102,,
+polychlorinated biphenyls (pcbs) - as who teq,Polychlorinated biphenyls (PCBs) - as WHO TEQ,0.00344,,
+short chain (c10-13) chlorinated paraffins (sccps),Short chain (C10-13) chlorinated paraffins (SCCPs),0.0,,
+total organic carbon (toc),Total organic carbon (TOC),578259000.762737,,
+toxaphene,Toxaphene,0.0,,
+tributyltin and compounds - as tbt,Tributyltin and compounds - as TBT,20.96376,,
+triphenyltin and compounds - as tpt,Triphenyltin and compounds - as TPT,0.39,,
