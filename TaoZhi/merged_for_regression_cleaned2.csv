@@ -1,0 +1,277 @@
+OPERATOR NAME,Year,SUBSTANCE NAME,Total Emission (kg),Employee,Turnover,Turnover_million,REGULATED INDUSTRY SECTOR,REGULATED INDUSTRY SUB SECTOR,log_emission,log_employee,log_turnover,Sector,SubSector
+anglian water,2016,Benzo(a)pyrene,1.15,4432,1185000000,1185,Water Industry,Water Industry,0.139761942,8.396606228,7.077498054,Water Industry,Water Industry
+anglian water,2016,Copper,1672.4,4432,1185000000,1185,Water Industry,Water Industry,7.422014999,8.396606228,7.077498054,Water Industry,Water Industry
+anglian water,2016,Fluoranthene,1.59,4432,1185000000,1185,Water Industry,Water Industry,0.463734016,8.396606228,7.077498054,Water Industry,Water Industry
+anglian water,2016,"Indeno(1,2,3-cd)pyrene",6.08,4432,1185000000,1185,Water Industry,Water Industry,1.805004696,8.396606228,7.077498054,Water Industry,Water Industry
+anglian water,2017,Copper,1295.6,4462,1227000000,1227,Water Industry,Water Industry,7.166729187,8.403352375,7.112327445,Water Industry,Water Industry
+anglian water,2017,Fluoranthene,1.68,4462,1227000000,1227,Water Industry,Water Industry,0.518793793,8.403352375,7.112327445,Water Industry,Water Industry
+anglian water,2017,"Indeno(1,2,3-cd)pyrene",5.62,4462,1227000000,1227,Water Industry,Water Industry,1.726331664,8.403352375,7.112327445,Water Industry,Water Industry
+anglian water,2018,Copper,1026,4600,1248900000,1248.9,Water Industry,Water Industry,6.933423026,8.433811582,7.130018443,Water Industry,Water Industry
+anglian water,2018,Fluoranthene,1.88,4600,1248900000,1248.9,Water Industry,Water Industry,0.631271777,8.433811582,7.130018443,Water Industry,Water Industry
+anglian water,2018,"Indeno(1,2,3-cd)pyrene",5.92,4600,1248900000,1248.9,Water Industry,Water Industry,1.778336449,8.433811582,7.130018443,Water Industry,Water Industry
+anglian water,2019,Benzo(a)pyrene,1.06,4764,1355000000,1355,Water Industry,Water Industry,0.058268908,8.46884293,7.211556733,Water Industry,Water Industry
+anglian water,2019,Copper,1028.1,4764,1355000000,1355,Water Industry,Water Industry,6.935467718,8.46884293,7.211556733,Water Industry,Water Industry
+anglian water,2019,Fluoranthene,2.02,4764,1355000000,1355,Water Industry,Water Industry,0.703097511,8.46884293,7.211556733,Water Industry,Water Industry
+anglian water,2019,"Indeno(1,2,3-cd)pyrene",7.17,4764,1355000000,1355,Water Industry,Water Industry,1.969905655,8.46884293,7.211556733,Water Industry,Water Industry
+anglian water,2020,Benzo(a)pyrene,3.24,4984,1420000000,1420,Water Industry,Water Industry,1.17557333,8.51398806,7.258412151,Water Industry,Water Industry
+anglian water,2020,Copper,1196.3,4984,1420000000,1420,Water Industry,Water Industry,7.086988739,8.51398806,7.258412151,Water Industry,Water Industry
+anglian water,2020,Fluoranthene,2.15,4984,1420000000,1420,Water Industry,Water Industry,0.765467842,8.51398806,7.258412151,Water Industry,Water Industry
+anglian water,2020,"Indeno(1,2,3-cd)pyrene",7.59,4984,1420000000,1420,Water Industry,Water Industry,2.026831591,8.51398806,7.258412151,Water Industry,Water Industry
+anglian water,2021,Benzo(a)pyrene,3.36,4882,1352000000,1352,Water Industry,Water Industry,1.211940974,8.493310251,7.209340257,Water Industry,Water Industry
+anglian water,2021,Copper,1139.7,4882,1352000000,1352,Water Industry,Water Industry,7.038520349,8.493310251,7.209340257,Water Industry,Water Industry
+anglian water,2021,Fluoranthene,2.04,4882,1352000000,1352,Water Industry,Water Industry,0.712949808,8.493310251,7.209340257,Water Industry,Water Industry
+anglian water,2021,"Indeno(1,2,3-cd)pyrene",7.6,4882,1352000000,1352,Water Industry,Water Industry,2.028148247,8.493310251,7.209340257,Water Industry,Water Industry
+anglian water,2022,Benzo(a)pyrene,1.01,5129,1400000000,1400,Water Industry,Water Industry,0.009950331,8.542665987,7.244227516,Water Industry,Water Industry
+anglian water,2022,Copper,999.2,5129,1400000000,1400,Water Industry,Water Industry,6.906954959,8.542665987,7.244227516,Water Industry,Water Industry
+anglian water,2022,Fluoranthene,1.71,5129,1400000000,1400,Water Industry,Water Industry,0.536493371,8.542665987,7.244227516,Water Industry,Water Industry
+anglian water,2022,"Indeno(1,2,3-cd)pyrene",4.74,5129,1400000000,1400,Water Industry,Water Industry,1.556037136,8.542665987,7.244227516,Water Industry,Water Industry
+anglian water,2023,Benzo(a)pyrene,3.45,5295,1495000000,1495,Water Industry,Water Industry,1.238374231,8.574518258,7.309881486,Water Industry,Water Industry
+anglian water,2023,Copper,1019.3,5295,1495000000,1495,Water Industry,Water Industry,6.926871396,8.574518258,7.309881486,Water Industry,Water Industry
+anglian water,2023,Fluoranthene,2.62,5295,1495000000,1495,Water Industry,Water Industry,0.963174318,8.574518258,7.309881486,Water Industry,Water Industry
+anglian water,2023,"Indeno(1,2,3-cd)pyrene",8.95,5295,1495000000,1495,Water Industry,Water Industry,2.191653532,8.574518258,7.309881486,Water Industry,Water Industry
+bradley park waste management limited,2020,Fluoranthene,0.13,19,,,Landfill,Non Hazardous Landfill,-2.040220829,2.944438979,,Landfill,Non Hazardous Landfill
+bradley park waste management limited,2022,Fluoranthene,0.57,8,,,Landfill,Non Hazardous Landfill,-0.562118918,2.079441542,,Landfill,Non Hazardous Landfill
+british steel limited,2020,Benzo(a)pyrene,7.18,3449,843864000,843.864,Metals,Ferrous,1.971299383,8.145839613,6.737991344,Metals,Ferrous
+british steel limited,2020,Copper,72.81,3449,843864000,843.864,Metals,Ferrous,4.287853308,8.145839613,6.737991344,Metals,Ferrous
+british steel limited,2020,Fluoranthene,2.75,3449,843864000,843.864,Metals,Ferrous,1.011600912,8.145839613,6.737991344,Metals,Ferrous
+british steel limited,2020,"Indeno(1,2,3-cd)pyrene",4.04,3449,843864000,843.864,Metals,Ferrous,1.396244692,8.145839613,6.737991344,Metals,Ferrous
+british steel limited,2021,Benzo(a)pyrene,6.62,4321,1463601000,1463.601,Metals,Ferrous,1.89009537,8.371242136,7.288655116,Metals,Ferrous
+british steel limited,2021,Copper,52.07,4321,1463601000,1463.601,Metals,Ferrous,3.952588967,8.371242136,7.288655116,Metals,Ferrous
+british steel limited,2021,Fluoranthene,0.44,4321,1463601000,1463.601,Metals,Ferrous,-0.820980552,8.371242136,7.288655116,Metals,Ferrous
+british steel limited,2021,"Indeno(1,2,3-cd)pyrene",6.41,4321,1463601000,1463.601,Metals,Ferrous,1.857859271,8.371242136,7.288655116,Metals,Ferrous
+british steel limited,2022,Benzo(a)pyrene,6.94,4463,1732566000,1732.566,Metals,Ferrous,1.937301775,8.403576465,7.457358826,Metals,Ferrous
+british steel limited,2022,Copper,95.88,4463,1732566000,1732.566,Metals,Ferrous,4.56309741,8.403576465,7.457358826,Metals,Ferrous
+british steel limited,2022,Fluoranthene,1.52,4463,1732566000,1732.566,Metals,Ferrous,0.418710335,8.403576465,7.457358826,Metals,Ferrous
+british steel limited,2022,"Indeno(1,2,3-cd)pyrene",6.14,4463,1732566000,1732.566,Metals,Ferrous,1.814824742,8.403576465,7.457358826,Metals,Ferrous
+british steel limited,2023,Benzo(a)pyrene,9.14,4271,1259703000,1259.703,Metals,Ferrous,2.212660385,8.359603271,7.138631258,Metals,Ferrous
+british steel limited,2023,Copper,126.21,4271,1259703000,1259.703,Metals,Ferrous,4.837947186,8.359603271,7.138631258,Metals,Ferrous
+british steel limited,2023,Fluoranthene,2.66,4271,1259703000,1259.703,Metals,Ferrous,0.978326123,8.359603271,7.138631258,Metals,Ferrous
+british steel limited,2023,"Indeno(1,2,3-cd)pyrene",7.23,4271,1259703000,1259.703,Metals,Ferrous,1.978239036,8.359603271,7.138631258,Metals,Ferrous
+bulmer & lumb group ltd,2016,Cypermethrin,0.0731,106,7821247,7.821247,Paper and textiles,Textiles,-2.615926912,4.663439094,2.056844005,Paper and textiles,Textiles
+calder textiles limited,2016,Cypermethrin,0.008,146,9915485,9.915485,Paper and textiles,Textiles,-4.828313737,4.983606622,2.294097677,Paper and textiles,Textiles
+calder textiles limited,2017,Cypermethrin,0.012,154,,,Paper and textiles,Textiles,-4.422848629,5.036952602,,Paper and textiles,Textiles
+calder textiles limited,2018,Cypermethrin,0.01,158,11698000,11.698,Paper and textiles,Textiles,-4.605170186,5.062595033,2.459417887,Paper and textiles,Textiles
+calder textiles limited,2019,Cypermethrin,0.012,159,11559000,11.559,Paper and textiles,Textiles,-4.422848629,5.068904202,2.447464354,Paper and textiles,Textiles
+calder textiles limited,2021,Cypermethrin,0.022,138,7050355,7.050355,Paper and textiles,Textiles,-3.816712826,4.927253685,1.95307797,Paper and textiles,Textiles
+calder textiles limited,2022,Cypermethrin,0.01,125,10595000,10.595,Paper and textiles,Textiles,-4.605170186,4.828313737,2.360382192,Paper and textiles,Textiles
+calder textiles limited,2023,Cypermethrin,0.01,125,11696000,11.696,Paper and textiles,Textiles,-4.605170186,4.828313737,2.459246903,Paper and textiles,Textiles
+cleansing service group limited,2018,Copper,61.8,512,63981000,63.981,Waste treatment,Hazardous,4.123903364,6.238324625,4.158586164,Waste treatment,Hazardous
+cleansing service group limited,2019,Copper,56,542,78182000,78.182,Waste treatment,Hazardous,4.025351691,6.295266001,4.359039442,Waste treatment,Hazardous
+cleansing service group limited,2020,Copper,54.9,594,77866000,77.866,Waste treatment,Hazardous,4.005513349,6.386879319,4.354989401,Waste treatment,Hazardous
+cleansing service group limited,2021,Copper,41.3,561,89165000,89.165,Waste treatment,Hazardous,3.7208625,6.329720906,4.490488586,Waste treatment,Hazardous
+cleansing service group limited,2022,Copper,55.97,589,98833000,98.833,Waste treatment,Hazardous,4.024815833,6.378426184,4.593431557,Waste treatment,Hazardous
+cumbria waste management ltd,2023,"Indeno(1,2,3-cd)pyrene",1.91,198,36724000,36.724,Landfill,Non Hazardous Landfill,0.647103242,5.288267031,3.603430492,Landfill,Non Hazardous Landfill
+de la rue plc,2017,Copper,22.4,3151,414500000,414.5,Paper and textiles,Paper & Pulp,3.109060959,8.055475142,6.027072975,Paper and textiles,Paper & Pulp
+de la rue plc,2017,Cypermethrin,0.01223,3151,414500000,414.5,Paper and textiles,Paper & Pulp,-4.403863329,8.055475142,6.027072975,Paper and textiles,Paper & Pulp
+esso petroleum company ltd,2016,Benzo(a)pyrene,9.24,1304,3440000000,3440,Refineries & Fuel,Refineries & Fuel,2.223541886,7.173191742,8.14322675,Refineries & Fuel,Refineries & Fuel
+esso petroleum company ltd,2016,Copper,437.56,1304,3440000000,3440,Refineries & Fuel,Refineries & Fuel,6.081213839,7.173191742,8.14322675,Refineries & Fuel,Refineries & Fuel
+esso petroleum company ltd,2016,Fluoranthene,20.21,1304,3440000000,3440,Refineries & Fuel,Refineries & Fuel,3.006177531,7.173191742,8.14322675,Refineries & Fuel,Refineries & Fuel
+esso petroleum company ltd,2017,Benzo(a)pyrene,16.87,1291,4356000000,4356,Refineries & Fuel,Refineries & Fuel,2.825536897,7.163172391,8.379309484,Refineries & Fuel,Refineries & Fuel
+esso petroleum company ltd,2017,Copper,402.7,1291,4356000000,4356,Refineries & Fuel,Refineries & Fuel,5.998191868,7.163172391,8.379309484,Refineries & Fuel,Refineries & Fuel
+esso petroleum company ltd,2017,Fluoranthene,19.8,1291,4356000000,4356,Refineries & Fuel,Refineries & Fuel,2.985681938,7.163172391,8.379309484,Refineries & Fuel,Refineries & Fuel
+esso petroleum company ltd,2018,Copper,96.3,1266,5459000000,5459,Refineries & Fuel,Refineries & Fuel,4.567468319,7.143617603,8.605020902,Refineries & Fuel,Refineries & Fuel
+future industrial services limited,2016,Copper,22.8,249,22823000,22.823,Waste treatment,Hazardous,3.126760536,5.517452896,3.127768799,Waste treatment,Hazardous
+haltermann carless uk limited,2021,Fluoranthene,0.20077,176,84238000,84.238,Refineries & Fuel,Refineries & Fuel,-1.605595305,5.170483995,4.433646126,Refineries & Fuel,Refineries & Fuel
+harrison gardner dyers and winders limited,2016,Cypermethrin,0.088,45,,,Paper and textiles,Textiles,-2.430418465,3.80666249,,Paper and textiles,Textiles
+harrison gardner dyers and winders limited,2017,Cypermethrin,0.075,36,,,Paper and textiles,Textiles,-2.590267165,3.583518938,,Paper and textiles,Textiles
+harrison gardner dyers and winders limited,2018,Cypermethrin,0.051,37,,,Paper and textiles,Textiles,-2.975929646,3.610917913,,Paper and textiles,Textiles
+harrison gardner dyers and winders limited,2019,Cypermethrin,0.042,37,,,Paper and textiles,Textiles,-3.170085661,3.610917913,,Paper and textiles,Textiles
+harrison gardner dyers and winders limited,2022,Cypermethrin,0.036,29,,,Paper and textiles,Textiles,-3.324236341,3.36729583,,Paper and textiles,Textiles
+harrison gardner dyers and winders limited,2023,Cypermethrin,0.065,29,,,Paper and textiles,Textiles,-2.733368009,3.36729583,,Paper and textiles,Textiles
+haworth scouring company limited,2019,Cypermethrin,0.671,64,7036782,7.036782,Paper and textiles,Textiles,-0.398986142,4.158883083,1.951150963,Paper and textiles,Textiles
+haworth scouring company limited,2020,Cypermethrin,0.264,53,5770026,5.770026,Paper and textiles,Textiles,-1.331806176,3.970291914,1.752676587,Paper and textiles,Textiles
+haworth scouring company limited,2021,Cypermethrin,0.112,49,7468922,7.468922,Paper and textiles,Textiles,-2.189256408,3.891820298,2.010750678,Paper and textiles,Textiles
+haworth scouring company limited,2022,Cypermethrin,0.5,59,7956228,7.956228,Paper and textiles,Textiles,-0.693147181,4.077537444,2.073955018,Paper and textiles,Textiles
+haworth scouring company limited,2023,Cypermethrin,1.381,57,10029000,10.029,Paper and textiles,Textiles,0.322807874,4.043051268,2.305480896,Paper and textiles,Textiles
+higher kings mill limited,2021,Cypermethrin,0.029,97,5588170,5.58817,Paper and textiles,Paper & Pulp,-3.540459449,4.574710979,1.720651863,Paper and textiles,Paper & Pulp
+higher kings mill limited,2022,Cypermethrin,0.0419,86,8397000,8.397,Paper and textiles,Paper & Pulp,-3.172469452,4.454347296,2.127874499,Paper and textiles,Paper & Pulp
+higher kings mill limited,2023,Cypermethrin,0.0097,83,8812000,8.812,Paper and textiles,Paper & Pulp,-4.635629393,4.418840608,2.176114429,Paper and textiles,Paper & Pulp
+huddersfield dyeing company limited,2017,Cypermethrin,0.0187,28,,,Paper and textiles,Textiles,-3.979231755,3.33220451,,Paper and textiles,Textiles
+huddersfield dyeing company limited,2019,Cypermethrin,0.0262,29,,,Paper and textiles,Textiles,-3.641995868,3.36729583,,Paper and textiles,Textiles
+huddersfield dyeing company limited,2022,Cypermethrin,0.0198,31,,,Paper and textiles,Textiles,-3.922073341,3.433987204,,Paper and textiles,Textiles
+huddersfield dyeing company limited,2023,Cypermethrin,0.0101,28,,,Paper and textiles,Textiles,-4.595219855,3.33220451,,Paper and textiles,Textiles
+northumbrian water ltd,2016,Benzo(a)pyrene,5.42,3125,805500000,805.5,Water Industry,Water Industry,1.690095815,8.047189562,6.691463203,Water Industry,Water Industry
+northumbrian water ltd,2016,Copper,2815.828,3125,805500000,805.5,Water Industry,Water Industry,7.943011636,8.047189562,6.691463203,Water Industry,Water Industry
+northumbrian water ltd,2016,Fluoranthene,1.53,3125,805500000,805.5,Water Industry,Water Industry,0.425267735,8.047189562,6.691463203,Water Industry,Water Industry
+northumbrian water ltd,2016,"Indeno(1,2,3-cd)pyrene",8.1,3125,805500000,805.5,Water Industry,Water Industry,2.091864062,8.047189562,6.691463203,Water Industry,Water Industry
+northumbrian water ltd,2017,Benzo(a)pyrene,5.35,3128,821600000,821.6,Water Industry,Water Industry,1.677096561,8.048149102,6.711253659,Water Industry,Water Industry
+northumbrian water ltd,2017,Copper,2801.238,3128,821600000,821.6,Water Industry,Water Industry,7.937816741,8.048149102,6.711253659,Water Industry,Water Industry
+northumbrian water ltd,2017,Fluoranthene,1.41,3128,821600000,821.6,Water Industry,Water Industry,0.343589704,8.048149102,6.711253659,Water Industry,Water Industry
+northumbrian water ltd,2017,"Indeno(1,2,3-cd)pyrene",7.98,3128,821600000,821.6,Water Industry,Water Industry,2.076938411,8.048149102,6.711253659,Water Industry,Water Industry
+northumbrian water ltd,2018,Benzo(a)pyrene,5.98,3052,834600000,834.6,Water Industry,Water Industry,1.788420568,8.023552392,6.726952568,Water Industry,Water Industry
+northumbrian water ltd,2018,Copper,3119.6,3052,834600000,834.6,Water Industry,Water Industry,8.045460067,8.023552392,6.726952568,Water Industry,Water Industry
+northumbrian water ltd,2018,Fluoranthene,1.69,3052,834600000,834.6,Water Industry,Water Industry,0.524728529,8.023552392,6.726952568,Water Industry,Water Industry
+northumbrian water ltd,2018,"Indeno(1,2,3-cd)pyrene",8.93,3052,834600000,834.6,Water Industry,Water Industry,2.189416395,8.023552392,6.726952568,Water Industry,Water Industry
+northumbrian water ltd,2019,Benzo(a)pyrene,6.17,3146,869100000,869.1,Water Industry,Water Industry,1.819698838,8.053887084,6.767458193,Water Industry,Water Industry
+northumbrian water ltd,2019,Copper,3221.384,3146,869100000,869.1,Water Industry,Water Industry,8.07756636,8.053887084,6.767458193,Water Industry,Water Industry
+northumbrian water ltd,2019,Fluoranthene,1.86,3146,869100000,869.1,Water Industry,Water Industry,0.620576488,8.053887084,6.767458193,Water Industry,Water Industry
+northumbrian water ltd,2019,"Indeno(1,2,3-cd)pyrene",9.23,3146,869100000,869.1,Water Industry,Water Industry,2.222459049,8.053887084,6.767458193,Water Industry,Water Industry
+northumbrian water ltd,2020,Benzo(a)pyrene,6.07,3108,900400000,900.4,Water Industry,Water Industry,1.803358605,8.041734711,6.802839109,Water Industry,Water Industry
+northumbrian water ltd,2020,Copper,3143.14,3108,900400000,900.4,Water Industry,Water Industry,8.052977579,8.041734711,6.802839109,Water Industry,Water Industry
+northumbrian water ltd,2020,Fluoranthene,1.82,3108,900400000,900.4,Water Industry,Water Industry,0.598836501,8.041734711,6.802839109,Water Industry,Water Industry
+northumbrian water ltd,2020,"Indeno(1,2,3-cd)pyrene",9.05,3108,900400000,900.4,Water Industry,Water Industry,2.202764758,8.041734711,6.802839109,Water Industry,Water Industry
+northumbrian water ltd,2021,Benzo(a)pyrene,5.67,3085,758400000,758.4,Water Industry,Water Industry,1.735189118,8.034306936,6.631210951,Water Industry,Water Industry
+northumbrian water ltd,2021,Copper,2948.115,3085,758400000,758.4,Water Industry,Water Industry,7.988921262,8.034306936,6.631210951,Water Industry,Water Industry
+northumbrian water ltd,2021,Fluoranthene,1.6,3085,758400000,758.4,Water Industry,Water Industry,0.470003629,8.034306936,6.631210951,Water Industry,Water Industry
+northumbrian water ltd,2021,"Indeno(1,2,3-cd)pyrene",8.48,3085,758400000,758.4,Water Industry,Water Industry,2.13771045,8.034306936,6.631210951,Water Industry,Water Industry
+northumbrian water ltd,2022,Benzo(a)pyrene,5.31,3089,780100000,780.1,Water Industry,Water Industry,1.669591835,8.035602693,6.659422117,Water Industry,Water Industry
+northumbrian water ltd,2022,Copper,2727.339,3089,780100000,780.1,Water Industry,Water Industry,7.911081688,8.035602693,6.659422117,Water Industry,Water Industry
+northumbrian water ltd,2022,Fluoranthene,1.39,3089,780100000,780.1,Water Industry,Water Industry,0.329303747,8.035602693,6.659422117,Water Industry,Water Industry
+northumbrian water ltd,2022,"Indeno(1,2,3-cd)pyrene",7.92,3089,780100000,780.1,Water Industry,Water Industry,2.069391206,8.035602693,6.659422117,Water Industry,Water Industry
+northumbrian water ltd,2023,Benzo(a)pyrene,6.09,3103,849900000,849.9,Water Industry,Water Industry,1.806648082,8.040124664,6.745118696,Water Industry,Water Industry
+northumbrian water ltd,2023,Copper,3223.335,3103,849900000,849.9,Water Industry,Water Industry,8.078171817,8.040124664,6.745118696,Water Industry,Water Industry
+northumbrian water ltd,2023,Fluoranthene,1.84,3103,849900000,849.9,Water Industry,Water Industry,0.609765572,8.040124664,6.745118696,Water Industry,Water Industry
+northumbrian water ltd,2023,"Indeno(1,2,3-cd)pyrene",9.13,3103,849900000,849.9,Water Industry,Water Industry,2.211565695,8.040124664,6.745118696,Water Industry,Water Industry
+palm paper limited,2016,Copper,36.39,184,98899000,98.899,Paper and textiles,Paper & Pulp,3.594294012,5.214935758,4.594099127,Paper and textiles,Paper & Pulp
+palm paper limited,2017,Copper,22.08,187,98482000,98.482,Paper and textiles,Paper & Pulp,3.094672221,5.231108617,4.58987379,Paper and textiles,Paper & Pulp
+palm paper limited,2017,Cypermethrin,0.058,187,98482000,98.482,Paper and textiles,Paper & Pulp,-2.847312268,5.231108617,4.58987379,Paper and textiles,Paper & Pulp
+palm paper limited,2018,Copper,25.85,186,115437000,115.437,Paper and textiles,Paper & Pulp,3.252310601,5.225746674,4.748724927,Paper and textiles,Paper & Pulp
+palm paper limited,2019,Copper,33.8,191,92309000,92.309,Paper and textiles,Paper & Pulp,3.520460802,5.252273428,4.525141645,Paper and textiles,Paper & Pulp
+palm paper limited,2022,Copper,22.1,188,258035000,258.035,Paper and textiles,Paper & Pulp,3.095577609,5.236441963,5.553095235,Paper and textiles,Paper & Pulp
+palm paper limited,2023,Copper,22.1,191,218570000,218.57,Paper and textiles,Paper & Pulp,3.095577609,5.252273428,5.387106329,Paper and textiles,Paper & Pulp
+phillips 66 limited,2020,Fluoranthene,0.12,971,2668521000,2668.521,Refineries & Fuel,Refineries & Fuel,-2.120263536,6.878326468,7.889279665,Refineries & Fuel,Refineries & Fuel
+phillips 66 limited,2021,Fluoranthene,0.18,976,4515000000,4515,Refineries & Fuel,Refineries & Fuel,-1.714798428,6.883462586,8.415160466,Refineries & Fuel,Refineries & Fuel
+phillips 66 limited,2022,Copper,41.3,968,8120000000,8120,Refineries & Fuel,Refineries & Fuel,3.7208625,6.875232087,9.002085433,Refineries & Fuel,Refineries & Fuel
+phillips 66 limited,2022,Fluoranthene,0.19,968,8120000000,8120,Refineries & Fuel,Refineries & Fuel,-1.660731207,6.875232087,9.002085433,Refineries & Fuel,Refineries & Fuel
+phillips 66 limited,2023,Fluoranthene,0.19,943,6062000000,6062,Refineries & Fuel,Refineries & Fuel,-1.660731207,6.849066283,8.709795058,Refineries & Fuel,Refineries & Fuel
+premier hank dyers ltd,2016,Cypermethrin,0.104,0,,,Paper and textiles,Textiles,-2.26336438,,,Paper and textiles,Textiles
+premier hank dyers ltd,2017,Cypermethrin,0.0553,25,,,Paper and textiles,Textiles,-2.89498237,3.218875825,,Paper and textiles,Textiles
+premier hank dyers ltd,2018,Cypermethrin,0.047,22,,,Paper and textiles,Textiles,-3.057607677,3.091042453,,Paper and textiles,Textiles
+rwe generation uk plc,2016,Copper,187.35,1054,2244000000,2244,Combustion,Power,5.232978525,6.960347729,7.716015267,Combustion,Power
+rwe generation uk plc,2017,Copper,152.44,1074,1780000000,1780,Combustion,Power,5.026771076,6.979145275,7.484368643,Combustion,Power
+rwe generation uk plc,2018,Copper,233.17,1124,1880000000,1880,Combustion,Power,5.451767801,7.02464903,7.539027056,Combustion,Power
+rwe generation uk plc,2019,Copper,193.43,1097,1789000000,1789,Combustion,Power,5.26491569,7.00033446,7.489412084,Combustion,Power
+rwe generation uk plc,2020,Copper,202.11,1000,1177000000,1177,Combustion,Power,5.308812104,6.907755279,7.070724107,Combustion,Power
+rwe generation uk plc,2021,Copper,136.21,874,4433000000,4433,Combustion,Power,4.914197812,6.773080376,8.396831835,Combustion,Power
+rwe generation uk plc,2022,Copper,271.88,790,7943000000,7943,Combustion,Power,5.605360792,6.672032945,8.980046317,Combustion,Power
+rwe generation uk plc,2023,Copper,170.17,792,2805000000,2805,Combustion,Power,5.136797937,6.674561392,7.939158818,Combustion,Power
+severn trent water ltd,2016,Benzo(a)pyrene,20.41,5236,1550200000,1550.2,Water Industry,Water Industry,3.016024977,8.563313127,7.346139234,Water Industry,Water Industry
+severn trent water ltd,2016,Copper,9057.1,5236,1550200000,1550.2,Water Industry,Water Industry,9.111304259,8.563313127,7.346139234,Water Industry,Water Industry
+severn trent water ltd,2016,Fluoranthene,5.68,5236,1550200000,1550.2,Water Industry,Water Industry,1.736951233,8.563313127,7.346139234,Water Industry,Water Industry
+severn trent water ltd,2016,"Indeno(1,2,3-cd)pyrene",28.72,5236,1550200000,1550.2,Water Industry,Water Industry,3.357593744,8.563313127,7.346139234,Water Industry,Water Industry
+severn trent water ltd,2017,Benzo(a)pyrene,15.48,5844,1556100000,1556.1,Water Industry,Water Industry,2.739548868,8.673170773,7.34993797,Water Industry,Water Industry
+severn trent water ltd,2017,Copper,7624.3,5844,1556100000,1556.1,Water Industry,Water Industry,8.939095794,8.673170773,7.34993797,Water Industry,Water Industry
+severn trent water ltd,2017,Fluoranthene,4.67,5844,1556100000,1556.1,Water Industry,Water Industry,1.541159072,8.673170773,7.34993797,Water Industry,Water Industry
+severn trent water ltd,2017,"Indeno(1,2,3-cd)pyrene",22.32,5844,1556100000,1556.1,Water Industry,Water Industry,3.105483138,8.673170773,7.34993797,Water Industry,Water Industry
+severn trent water ltd,2018,Benzo(a)pyrene,17.08,5996,1607000000,1607,Water Industry,Water Industry,2.837908188,8.698847859,7.382124366,Water Industry,Water Industry
+severn trent water ltd,2018,Copper,7761.2,5996,1607000000,1607,Water Industry,Water Industry,8.95689224,8.698847859,7.382124366,Water Industry,Water Industry
+severn trent water ltd,2018,Fluoranthene,4.91,5996,1607000000,1607,Water Industry,Water Industry,1.591273942,8.698847859,7.382124366,Water Industry,Water Industry
+severn trent water ltd,2018,"Indeno(1,2,3-cd)pyrene",23.33,5996,1607000000,1607,Water Industry,Water Industry,3.149740086,8.698847859,7.382124366,Water Industry,Water Industry
+severn trent water ltd,2019,Benzo(a)pyrene,20.03,6305,1673000000,1673,Water Industry,Water Industry,2.99723115,8.749098248,7.422373701,Water Industry,Water Industry
+severn trent water ltd,2019,Copper,8869.1,6305,1673000000,1673,Water Industry,Water Industry,9.090328605,8.749098248,7.422373701,Water Industry,Water Industry
+severn trent water ltd,2019,Fluoranthene,5.42,6305,1673000000,1673,Water Industry,Water Industry,1.690095815,8.749098248,7.422373701,Water Industry,Water Industry
+severn trent water ltd,2019,"Indeno(1,2,3-cd)pyrene",25.93,6305,1673000000,1673,Water Industry,Water Industry,3.2554006,8.749098248,7.422373701,Water Industry,Water Industry
+severn trent water ltd,2020,Benzo(a)pyrene,18.44,6524,1715000000,1715,Water Industry,Water Industry,2.914522218,8.783242964,7.44716836,Water Industry,Water Industry
+severn trent water ltd,2020,Copper,8288.2,6524,1715000000,1715,Water Industry,Water Industry,9.022588095,8.783242964,7.44716836,Water Industry,Water Industry
+severn trent water ltd,2020,Fluoranthene,5.27,6524,1715000000,1715,Water Industry,Water Industry,1.662030363,8.783242964,7.44716836,Water Industry,Water Industry
+severn trent water ltd,2020,"Indeno(1,2,3-cd)pyrene",26.22,6524,1715000000,1715,Water Industry,Water Industry,3.266522478,8.783242964,7.44716836,Water Industry,Water Industry
+severn trent water ltd,2021,Benzo(a)pyrene,18.57,6658,1700000000,1700,Water Industry,Water Industry,2.921547375,8.803574418,7.43838353,Water Industry,Water Industry
+severn trent water ltd,2021,Copper,8169.6,6658,1700000000,1700,Water Industry,Water Industry,9.008175227,8.803574418,7.43838353,Water Industry,Water Industry
+severn trent water ltd,2021,Fluoranthene,5.28,6658,1700000000,1700,Water Industry,Water Industry,1.663926098,8.803574418,7.43838353,Water Industry,Water Industry
+severn trent water ltd,2021,"Indeno(1,2,3-cd)pyrene",25.29,6658,1700000000,1700,Water Industry,Water Industry,3.230409061,8.803574418,7.43838353,Water Industry,Water Industry
+severn trent water ltd,2022,Benzo(a)pyrene,16.26,6803,1809000000,1809,Water Industry,Water Industry,2.788708104,8.82511897,7.500529485,Water Industry,Water Industry
+severn trent water ltd,2022,Copper,7495.4,6803,1809000000,1809,Water Industry,Water Industry,8.922044778,8.82511897,7.500529485,Water Industry,Water Industry
+severn trent water ltd,2022,Fluoranthene,4.76,6803,1809000000,1809,Water Industry,Water Industry,1.560247668,8.82511897,7.500529485,Water Industry,Water Industry
+severn trent water ltd,2022,"Indeno(1,2,3-cd)pyrene",23.37,6803,1809000000,1809,Water Industry,Water Industry,3.151453149,8.82511897,7.500529485,Water Industry,Water Industry
+severn trent water ltd,2023,Benzo(a)pyrene,20.55,6998,1966000000,1966,Water Industry,Water Industry,3.022860941,8.853379673,7.583756301,Water Industry,Water Industry
+severn trent water ltd,2023,Copper,10194.2,6998,1966000000,1966,Water Industry,Water Industry,9.22957421,8.853379673,7.583756301,Water Industry,Water Industry
+severn trent water ltd,2023,Fluoranthene,5.67,6998,1966000000,1966,Water Industry,Water Industry,1.735189118,8.853379673,7.583756301,Water Industry,Water Industry
+severn trent water ltd,2023,"Indeno(1,2,3-cd)pyrene",27.65,6998,1966000000,1966,Water Industry,Water Industry,3.319625728,8.853379673,7.583756301,Water Industry,Water Industry
+severn waste services limited,2016,Benzo(a)pyrene,2.5473,292,37049000,37.049,Landfill,Non Hazardous Landfill,0.935033975,5.676753802,3.612241361,Landfill,Non Hazardous Landfill
+severn waste services limited,2016,Fluoranthene,2.5473,292,37049000,37.049,Landfill,Non Hazardous Landfill,0.935033975,5.676753802,3.612241361,Landfill,Non Hazardous Landfill
+severn waste services limited,2016,"Indeno(1,2,3-cd)pyrene",2.5473,292,37049000,37.049,Landfill,Non Hazardous Landfill,0.935033975,5.676753802,3.612241361,Landfill,Non Hazardous Landfill
+severn waste services limited,2017,Benzo(a)pyrene,1.6,320,31467000,31.467,Landfill,Non Hazardous Landfill,0.470003629,5.768320996,3.448939378,Landfill,Non Hazardous Landfill
+severn waste services limited,2017,Fluoranthene,1.56,320,31467000,31.467,Landfill,Non Hazardous Landfill,0.444685821,5.768320996,3.448939378,Landfill,Non Hazardous Landfill
+severn waste services limited,2017,"Indeno(1,2,3-cd)pyrene",1.56,320,31467000,31.467,Landfill,Non Hazardous Landfill,0.444685821,5.768320996,3.448939378,Landfill,Non Hazardous Landfill
+severn waste services limited,2018,Benzo(a)pyrene,8.11,325,32590000,32.59,Landfill,Non Hazardous Landfill,2.093097868,5.783825182,3.484005493,Landfill,Non Hazardous Landfill
+severn waste services limited,2018,Fluoranthene,4.93,325,32590000,32.59,Landfill,Non Hazardous Landfill,1.595338988,5.783825182,3.484005493,Landfill,Non Hazardous Landfill
+severn waste services limited,2018,"Indeno(1,2,3-cd)pyrene",8.11,325,32590000,32.59,Landfill,Non Hazardous Landfill,2.093097868,5.783825182,3.484005493,Landfill,Non Hazardous Landfill
+severn waste services limited,2019,Fluoranthene,0.3997,323,35505000,35.505,Landfill,Non Hazardous Landfill,-0.917041013,5.777652323,3.569673532,Landfill,Non Hazardous Landfill
+severn waste services limited,2022,Fluoranthene,0.36,325,40074000,40.074,Landfill,Non Hazardous Landfill,-1.021651248,5.783825182,3.690727745,Landfill,Non Hazardous Landfill
+south west water ltd,2016,Copper,471.1,1278,506400000,506.4,Water Industry,Water Industry,6.155070386,7.153051635,6.227326871,Water Industry,Water Industry
+south west water ltd,2016,Fluoranthene,0.4,1278,506400000,506.4,Water Industry,Water Industry,-0.916290732,7.153051635,6.227326871,Water Industry,Water Industry
+south west water ltd,2017,Copper,489.6,1427,562500000,562.5,Water Industry,Water Industry,6.193588731,7.263329617,6.332391134,Water Industry,Water Industry
+south west water ltd,2017,Fluoranthene,0.38,1427,562500000,562.5,Water Industry,Water Industry,-0.967584026,7.263329617,6.332391134,Water Industry,Water Industry
+south west water ltd,2018,Copper,458.2,1433,572800000,572.8,Water Industry,Water Industry,6.12730577,7.267525428,6.350536616,Water Industry,Water Industry
+south west water ltd,2018,Fluoranthene,0.42,1433,572800000,572.8,Water Industry,Water Industry,-0.867500568,7.267525428,6.350536616,Water Industry,Water Industry
+south west water ltd,2019,Copper,428.5,1389,582400000,582.4,Water Industry,Water Industry,6.060290738,7.236339343,6.367157497,Water Industry,Water Industry
+south west water ltd,2019,Fluoranthene,0.42,1389,582400000,582.4,Water Industry,Water Industry,-0.867500568,7.236339343,6.367157497,Water Industry,Water Industry
+south west water ltd,2020,Copper,478.5,1452,571600000,571.6,Water Industry,Water Industry,6.170656211,7.280697195,6.348439446,Water Industry,Water Industry
+south west water ltd,2020,Fluoranthene,0.42,1452,571600000,571.6,Water Industry,Water Industry,-0.867500568,7.280697195,6.348439446,Water Industry,Water Industry
+south west water ltd,2021,Copper,474.5,1567,543800000,543.8,Water Industry,Water Industry,6.162261618,7.356918242,6.298581532,Water Industry,Water Industry
+south west water ltd,2021,Fluoranthene,0.44,1567,543800000,543.8,Water Industry,Water Industry,-0.820980552,7.356918242,6.298581532,Water Industry,Water Industry
+south west water ltd,2022,Copper,468.4,1700,584600000,584.6,Water Industry,Water Industry,6.149322632,7.43838353,6.370927853,Water Industry,Water Industry
+south west water ltd,2022,Fluoranthene,0.39,1700,584600000,584.6,Water Industry,Water Industry,-0.94160854,7.43838353,6.370927853,Water Industry,Water Industry
+south west water ltd,2023,Copper,595.8,1886,566400000,566.4,Water Industry,Water Industry,6.38990504,7.542213463,6.339300542,Water Industry,Water Industry
+south west water ltd,2023,Fluoranthene,0.46,1886,566400000,566.4,Water Industry,Water Industry,-0.776528789,7.542213463,6.339300542,Water Industry,Water Industry
+standard wool (uk) limited,2016,Cypermethrin,4.57872,78,18416000,18.416,Paper and textiles,Textiles,1.521419483,4.356708827,2.913219852,Paper and textiles,Textiles
+standard wool (uk) limited,2017,Cypermethrin,3.269,80,15280000,15.28,Paper and textiles,Textiles,1.184484128,4.382026635,2.726544784,Paper and textiles,Textiles
+standard wool (uk) limited,2018,Cypermethrin,6.2796,83,48769000,48.769,Paper and textiles,Textiles,1.837306284,4.418840608,3.887094865,Paper and textiles,Textiles
+standard wool (uk) limited,2019,Cypermethrin,8.84,74,49830000,49.83,Paper and textiles,Textiles,2.179286877,4.304065093,3.908617212,Paper and textiles,Textiles
+standard wool (uk) limited,2020,Cypermethrin,2.21238,82,50370000,50.37,Paper and textiles,Textiles,0.794068859,4.406719247,3.91939576,Paper and textiles,Textiles
+standard wool (uk) limited,2021,Cypermethrin,1.556,70,26613000,26.613,Paper and textiles,Textiles,0.442118426,4.248495242,3.281399818,Paper and textiles,Textiles
+standard wool (uk) limited,2022,Cypermethrin,0.4151,58,34276000,34.276,Paper and textiles,Textiles,-0.879235824,4.060443011,3.534445401,Paper and textiles,Textiles
+standard wool (uk) limited,2023,Cypermethrin,0.89,62,31610000,31.61,Paper and textiles,Textiles,-0.116533816,4.127134385,3.453473526,Paper and textiles,Textiles
+thames water utilities ltd,2016,Benzo(a)pyrene,45.63,5057,2040000000,2040,Water Industry,Water Industry,3.820565395,8.528528701,7.620705087,Water Industry,Water Industry
+thames water utilities ltd,2016,Copper,21773.406,5057,2040000000,2040,Water Industry,Water Industry,9.988444596,8.528528701,7.620705087,Water Industry,Water Industry
+thames water utilities ltd,2016,Fluoranthene,11.67,5057,2040000000,2040,Water Industry,Water Industry,2.457021446,8.528528701,7.620705087,Water Industry,Water Industry
+thames water utilities ltd,2016,"Indeno(1,2,3-cd)pyrene",63.47,5057,2040000000,2040,Water Industry,Water Industry,4.150567353,8.528528701,7.620705087,Water Industry,Water Industry
+thames water utilities ltd,2017,Benzo(a)pyrene,41.99,4967,2060000000,2060,Water Industry,Water Industry,3.737431495,8.510571315,7.630461262,Water Industry,Water Industry
+thames water utilities ltd,2017,Copper,19467.44,4967,2060000000,2060,Water Industry,Water Industry,9.876498605,8.510571315,7.630461262,Water Industry,Water Industry
+thames water utilities ltd,2017,Fluoranthene,10.86,4967,2060000000,2060,Water Industry,Water Industry,2.385086315,8.510571315,7.630461262,Water Industry,Water Industry
+thames water utilities ltd,2017,"Indeno(1,2,3-cd)pyrene",57.64,4967,2060000000,2060,Water Industry,Water Industry,4.054216771,8.510571315,7.630461262,Water Industry,Water Industry
+thames water utilities ltd,2018,Benzo(a)pyrene,42.56,5421,2045000000,2045,Water Industry,Water Industry,3.750914845,8.598035579,7.623153068,Water Industry,Water Industry
+thames water utilities ltd,2018,Copper,19725.62,5421,2045000000,2045,Water Industry,Water Industry,9.889673577,8.598035579,7.623153068,Water Industry,Water Industry
+thames water utilities ltd,2018,Fluoranthene,11.06,5421,2045000000,2045,Water Industry,Water Industry,2.403334996,8.598035579,7.623153068,Water Industry,Water Industry
+thames water utilities ltd,2018,"Indeno(1,2,3-cd)pyrene",57.34,5421,2045000000,2045,Water Industry,Water Industry,4.04899846,8.598035579,7.623153068,Water Industry,Water Industry
+thames water utilities ltd,2019,Benzo(a)pyrene,39.089,6063,2084000000,2084,Water Industry,Water Industry,3.665841097,8.709960006,7.642044403,Water Industry,Water Industry
+thames water utilities ltd,2019,Copper,16148.7,6063,2084000000,2084,Water Industry,Water Industry,9.68959483,8.709960006,7.642044403,Water Industry,Water Industry
+thames water utilities ltd,2019,Fluoranthene,9.4645,6063,2084000000,2084,Water Industry,Water Industry,2.247547957,8.709960006,7.642044403,Water Industry,Water Industry
+thames water utilities ltd,2019,"Indeno(1,2,3-cd)pyrene",50.563,6063,2084000000,2084,Water Industry,Water Industry,3.923220084,8.709960006,7.642044403,Water Industry,Water Industry
+thames water utilities ltd,2020,Benzo(a)pyrene,41.869,6296,2173000000,2173,Water Industry,Water Industry,3.734545696,8.74766979,7.68386398,Water Industry,Water Industry
+thames water utilities ltd,2020,Copper,17211.92,6296,2173000000,2173,Water Industry,Water Industry,9.753357446,8.74766979,7.68386398,Water Industry,Water Industry
+thames water utilities ltd,2020,Fluoranthene,10.1642,6296,2173000000,2173,Water Industry,Water Industry,2.318871743,8.74766979,7.68386398,Water Industry,Water Industry
+thames water utilities ltd,2020,"Indeno(1,2,3-cd)pyrene",54.141,6296,2173000000,2173,Water Industry,Water Industry,3.991591755,8.74766979,7.68386398,Water Industry,Water Industry
+thames water utilities ltd,2021,Benzo(a)pyrene,50.25,6525,2107000000,2107,Water Industry,Water Industry,3.917010547,8.783396232,7.653020414,Water Industry,Water Industry
+thames water utilities ltd,2021,Copper,23126.99,6525,2107000000,2107,Water Industry,Water Industry,10.04875561,8.783396232,7.653020414,Water Industry,Water Industry
+thames water utilities ltd,2021,Fluoranthene,13.13,6525,2107000000,2107,Water Industry,Water Industry,2.574899688,8.783396232,7.653020414,Water Industry,Water Industry
+thames water utilities ltd,2021,"Indeno(1,2,3-cd)pyrene",69.85,6525,2107000000,2107,Water Industry,Water Industry,4.246350086,8.783396232,7.653020414,Water Industry,Water Industry
+thames water utilities ltd,2022,Benzo(a)pyrene,39.93,7082,2177000000,2177,Water Industry,Water Industry,3.687127921,8.865311633,7.685703061,Water Industry,Water Industry
+thames water utilities ltd,2022,Copper,19036.25,7082,2177000000,2177,Water Industry,Water Industry,9.854100335,8.865311633,7.685703061,Water Industry,Water Industry
+thames water utilities ltd,2022,Fluoranthene,10.4,7082,2177000000,2177,Water Industry,Water Industry,2.341805806,8.865311633,7.685703061,Water Industry,Water Industry
+thames water utilities ltd,2022,"Indeno(1,2,3-cd)pyrene",57.1,7082,2177000000,2177,Water Industry,Water Industry,4.044804117,8.865311633,7.685703061,Water Industry,Water Industry
+thames water utilities ltd,2023,Benzo(a)pyrene,39.93,7242,2265000000,2265,Water Industry,Water Industry,3.687127921,8.88765269,7.725330038,Water Industry,Water Industry
+thames water utilities ltd,2023,Copper,19097,7242,2265000000,2265,Water Industry,Water Industry,9.857286534,8.88765269,7.725330038,Water Industry,Water Industry
+thames water utilities ltd,2023,Fluoranthene,10.4,7242,2265000000,2265,Water Industry,Water Industry,2.341805806,8.88765269,7.725330038,Water Industry,Water Industry
+thames water utilities ltd,2023,"Indeno(1,2,3-cd)pyrene",57.1,7242,2265000000,2265,Water Industry,Water Industry,4.044804117,8.88765269,7.725330038,Water Industry,Water Industry
+valencia waste management limited,2023,Fluoranthene,0.72132,150,44604000,44.604,Landfill,Non Hazardous Landfill,-0.326672412,5.010635294,3.797823541,Landfill,Non Hazardous Landfill
+veolia es (uk) limited,2020,Copper,61.51,9148,935805000,935.805,Waste treatment,Hazardous,4.119199763,9.121290555,6.841407121,Waste treatment,Hazardous
+veolia es (uk) limited,2021,Copper,79.3,9043,1040201000,1040.201,Waste treatment,Hazardous,4.373238129,9.109746257,6.947169243,Waste treatment,Hazardous
+veolia es (uk) limited,2022,Copper,117.74,9103,1155275000,1155.275,Waste treatment,Hazardous,4.768478804,9.116359309,7.05209369,Waste treatment,Hazardous
+veolia es (uk) limited,2023,Copper,234.72,9543,1240847000,1240.847,Waste treatment,Hazardous,5.458393314,9.16356318,7.12354949,Waste treatment,Hazardous
+w.t.johnson and sons (huddersfield) ltd,2018,Cypermethrin,0.0197,135,7365290,7.36529,Paper and textiles,Textiles,-3.927136643,4.905274778,1.996778425,Paper and textiles,Textiles
+w.t.johnson and sons (huddersfield) ltd,2019,Cypermethrin,0.0124,145,8250427,8.250427,Paper and textiles,Textiles,-4.390058806,4.976733742,2.110264957,Paper and textiles,Textiles
+w.t.johnson and sons (huddersfield) ltd,2022,Cypermethrin,0.0292,93,5759208,5.759208,Paper and textiles,Textiles,-3.53358657,4.532599493,1.750799965,Paper and textiles,Textiles
+w.t.johnson and sons (huddersfield) ltd,2023,Cypermethrin,0.012,111,7442934,7.442934,Paper and textiles,Textiles,-4.422848629,4.709530201,2.007265126,Paper and textiles,Textiles
+westex (carpets) limited,2018,Cypermethrin,0.022,197,19533000,19.533,Paper and textiles,Textiles,-3.816712826,5.283203729,2.972105343,Paper and textiles,Textiles
+westex (carpets) limited,2019,Cypermethrin,0.034,193,19734000,19.734,Paper and textiles,Textiles,-3.381394754,5.262690189,2.982343036,Paper and textiles,Textiles
+westex (carpets) limited,2020,Cypermethrin,0.032,177,19494000,19.494,Paper and textiles,Textiles,-3.442019376,5.176149733,2.970106726,Paper and textiles,Textiles
+westex (carpets) limited,2021,Cypermethrin,0.02,127,16947000,16.947,Paper and textiles,Textiles,-3.912023005,4.844187086,2.830090827,Paper and textiles,Textiles
+westex (carpets) limited,2022,Cypermethrin,0.024,81,23784000,23.784,Paper and textiles,Textiles,-3.729701449,4.394449155,3.169013086,Paper and textiles,Textiles
+westex (carpets) limited,2023,Cypermethrin,0.034,77,22862000,22.862,Paper and textiles,Textiles,-3.381394754,4.343805422,3.129476144,Paper and textiles,Textiles
+yorkshire water services limited,2016,Copper,2038.83,2323,975800000,975.8,Water Industry,Water Industry,7.620131393,7.750614733,6.883257647,Water Industry,Water Industry
+yorkshire water services limited,2016,Cypermethrin,4.23,2323,975800000,975.8,Water Industry,Water Industry,1.442201993,7.750614733,6.883257647,Water Industry,Water Industry
+yorkshire water services limited,2017,Copper,1426.61,2605,1003100000,1003.1,Water Industry,Water Industry,7.263056279,7.865187954,6.910850484,Water Industry,Water Industry
+yorkshire water services limited,2017,Cypermethrin,9.12,2605,1003100000,1003.1,Water Industry,Water Industry,2.210469804,7.865187954,6.910850484,Water Industry,Water Industry
+yorkshire water services limited,2018,Copper,1551.05,2681,1026700000,1026.7,Water Industry,Water Industry,7.3466874,7.893945138,6.934105054,Water Industry,Water Industry
+yorkshire water services limited,2018,Cypermethrin,4.86,2681,1026700000,1026.7,Water Industry,Water Industry,1.581038438,7.893945138,6.934105054,Water Industry,Water Industry
+yorkshire water services limited,2019,Copper,1778.6,2888,1059200000,1059.2,Water Industry,Water Industry,7.483581817,7.9683195,6.965269185,Water Industry,Water Industry
+yorkshire water services limited,2019,Cypermethrin,15.27,2888,1059200000,1059.2,Water Industry,Water Industry,2.725890119,7.9683195,6.965269185,Water Industry,Water Industry
+yorkshire water services limited,2020,Copper,1322.33,3312,1063400000,1063.4,Water Industry,Water Industry,7.187150611,8.105307516,6.969226601,Water Industry,Water Industry
+yorkshire water services limited,2020,Cypermethrin,9.11,3312,1063400000,1063.4,Water Industry,Water Industry,2.209372711,8.105307516,6.969226601,Water Industry,Water Industry
+yorkshire water services limited,2021,Copper,1152.41,3707,1101100000,1101.1,Water Industry,Water Industry,7.049610681,8.217978203,7.004064959,Water Industry,Water Industry
+yorkshire water services limited,2021,Cypermethrin,9.43,3707,1101100000,1101.1,Water Industry,Water Industry,2.243896097,8.217978203,7.004064959,Water Industry,Water Industry
+yorkshire water services limited,2022,Copper,1102.67,3931,1118500000,1118.5,Water Industry,Water Industry,7.00548979,8.276649125,7.019743781,Water Industry,Water Industry
+yorkshire water services limited,2022,Cypermethrin,52.83,3931,1118500000,1118.5,Water Industry,Water Industry,3.967079211,8.276649125,7.019743781,Water Industry,Water Industry
+yorkshire water services limited,2023,Copper,1057.78,3804,1144700000,1144.7,Water Industry,Water Industry,6.963927651,8.243808424,7.042897873,Water Industry,Water Industry
+yorkshire water services limited,2023,Cypermethrin,9.82,3804,1144700000,1144.7,Water Industry,Water Industry,2.284421122,8.243808424,7.042897873,Water Industry,Water Industry
